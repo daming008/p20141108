@@ -8,6 +8,7 @@ public abstract class Employee {
 	public String getName() {
 		return name;
 	}
+	//自动生成set方法
 	public void setName(String name) {
 		this.name = name;
 	}
